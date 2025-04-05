@@ -1,4 +1,4 @@
-rahulporuri.github.io
+smjagtap.github.io
 =====================
 The contents of this repository are my personal webpage files. I thought it better to host my site on github than on some paid service or on a college machine. And it looks cool having a username.github.io address :D
 
